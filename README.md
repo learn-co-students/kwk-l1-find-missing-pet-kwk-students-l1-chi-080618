@@ -29,7 +29,7 @@ Run `learn` in the terminal to check your progress! `spec/pet_spec.rb` contains 
 Use the commands we've learned to move the animals to their right places. When everything prints green, you've successfully organized all the Animal Sanctuary's adorable animal pics!
 <br>
 
-### Let's Move One File Together
+### Let's Move One File together
 
 Notice that the `painting-elephants.jpg` image is located in `(lab root) > cats > indoor > back-alley`. But really, the painting elephant should go inside of `(lab root) > elephants > painters`. 
 
